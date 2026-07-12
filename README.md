@@ -66,8 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1006-clumsy-factorial](https://github.com/its-anand371/LeetCode/tree/master/1006-clumsy-factorial) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/its-anand371/LeetCode/tree/master/1006-clumsy-factorial) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/its-anand371/LeetCode/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
