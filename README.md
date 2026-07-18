@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-anand371/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/its-anand371/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
