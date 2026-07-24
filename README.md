@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/its-anand371/LeetCode/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-anand371/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/its-anand371/LeetCode/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/its-anand371/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-anand371/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/its-anand371/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/its-anand371/LeetCode/tree/master/1006-clumsy-factorial) |
 | [2390-removing-stars-from-a-string](https://github.com/its-anand371/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
