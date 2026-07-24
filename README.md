@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-anand371/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-anand371/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/its-anand371/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-anand371/LeetCode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-anand371/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
