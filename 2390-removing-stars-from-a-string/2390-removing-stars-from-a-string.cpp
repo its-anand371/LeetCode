@@ -3,7 +3,7 @@ public:
     string removeStars(string s) {
         stack<char>st;
         for(char &c:s){
-            if(c=='*'){
+            if( c=='*'){
                 st.pop();
             }
             else{
@@ -11,10 +11,10 @@ public:
             }
         }
         string result="";
-        while(!st.empty()){
-            result+=st.top();
-            st.pop();
-        }
+            while(!st.empty()){
+                result+=st.top();
+                st.pop();
+            }
         reverse(result.begin(),result.end());
         return result;
     }
