@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-anand371/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/its-anand371/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
 | ------- |
