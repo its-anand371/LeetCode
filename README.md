@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/its-anand371/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/its-anand371/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/its-anand371/LeetCode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/its-anand371/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-anand371/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/its-anand371/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/its-anand371/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/its-anand371/LeetCode/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/its-anand371/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
