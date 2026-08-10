@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/its-anand371/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/its-anand371/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/its-anand371/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/its-anand371/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-anand371/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/its-anand371/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/its-anand371/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/its-anand371/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/its-anand371/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/its-anand371/LeetCode/tree/master/0234-palindrome-linked-list) |
