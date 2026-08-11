@@ -1,30 +1,30 @@
 class Solution {
 public:
-    int maximum(vector<int>&nums,int n){
+    int maximum(vector<int>&nums){
         int maximum=INT_MIN;
-        for(int i =0;i<n;i++){
-            maximum=max(nums[i],maximum);
+        for(int i =0;i<nums.size();i++){
+            maximum=max(maximum,nums[i]);
         }
-        return maximum ;
+        return maximum;
     }
-    int totalHours(vector<int>&piles,int mid){
-        long long total = 0;
-        for (int i = 0; i < piles.size(); i++) {
-        total += ceil((double)piles[i] / (double)mid);
-    }
-    return (int)min(total, (long long)INT_MAX);
+    long long total_hours(vector<int>&nums,int speed){
+        long long sum=0;
+        for(int i =0;i<nums.size();i++){
+            sum+=(nums[i]+speed-1)/speed;
+        }
+        return sum;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int n=piles.size();
         int start=1;
-        int end=maximum(piles,n);
-        while(start<=end){
+        int end=maximum(piles);
+        int total=0;
+        while(start<end){
             int mid=start+(end-start)/2;
-            int hours =  totalHours(piles,mid);
-            if(hours<=h){
-                end=mid-1;
+            total=total_hours(piles,mid);
+            if(total<=h){
+                end=mid;
             }
-            else {
+            else{
                 start=mid+1;
             }
         }
