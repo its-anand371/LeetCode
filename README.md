@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-anand371/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/its-anand371/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-anand371/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/its-anand371/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/its-anand371/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/its-anand371/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/its-anand371/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/its-anand371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-anand371/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/its-anand371/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
