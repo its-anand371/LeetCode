@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/its-anand371/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/its-anand371/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/its-anand371/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/its-anand371/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-anand371/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/its-anand371/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-anand371/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/its-anand371/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/its-anand371/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/its-anand371/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
