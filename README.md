@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/its-anand371/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/its-anand371/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/its-anand371/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/its-anand371/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/its-anand371/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/its-anand371/LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/its-anand371/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
