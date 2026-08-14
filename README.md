@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/its-anand371/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/its-anand371/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/its-anand371/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0978-longest-turbulent-subarray](https://github.com/its-anand371/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/its-anand371/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/its-anand371/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/its-anand371/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/its-anand371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-anand371/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/its-anand371/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/its-anand371/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/its-anand371/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0978-longest-turbulent-subarray](https://github.com/its-anand371/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
