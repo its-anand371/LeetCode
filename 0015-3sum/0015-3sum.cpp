@@ -20,18 +20,16 @@ public:
     }
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
         if(n<3){
-            return{};
+            return {};
         }
+        sort(nums.begin(),nums.end());
         result.clear();
         for(int i=0;i<n-2;i++){
             if(i>0 && nums[i]==nums[i-1]){
-                continue ;
+                continue;
             }
-            int num=nums[i];
-            int target=-nums[i];
-            three_sum(nums,target,i+1,n-1);
+            three_sum(nums,-nums[i],i+1,n-1);
         }
         return result;
     }
